@@ -1,0 +1,183 @@
+{
+  "questions": [
+    {
+     "questionId":1,
+     "question":"Type of operating Systems?",
+     "quesType":0,
+     "correctOption":[1],
+     "options":[
+        {
+          "optionId":1,
+          "option":"Android"
+        },
+       {
+          "optionId":2,
+          "option":"ioS"
+        },
+       {
+          "optionId":3,
+          "option":"Windows"
+        },
+       {
+          "optionId":4,
+          "option":"Linux"
+        }
+     ]
+   },
+    {
+     "questionId":2,
+     "question":"Type of Brand?",
+     "quesType":1,
+     "correctOption":[1],
+     "options":[
+        {
+          "optionId":1,
+          "option":"Samsung"
+        },
+       {
+          "optionId":2,
+          "option":"Apple"
+        },
+       {
+          "optionId":3,
+          "option":"Motorola"
+        },
+       {
+          "optionId":4,
+          "option":"Google"
+        },
+       {
+          "optionId":5,
+          "option":"HTC"
+        },
+       {
+          "optionId":6,
+          "option":"LG"
+        }
+     ]
+   },
+    {
+     "questionId":3,
+     "question":"Included Features?",
+     "quesType":0,
+     "correctOption":[1,2,3,4],
+     "options":[
+        {
+          "optionId":1,
+          "option":"FM Player"
+        },
+       {
+          "optionId":2,
+          "option":"Finger Print"
+        },
+       {
+          "optionId":3,
+          "option":"NFC"
+        },
+       {
+          "optionId":4,
+          "option":"USB"
+        },
+       {
+          "optionId":5,
+          "option":"Wireless Charging"
+        }
+     ]
+   },
+    {
+     "questionId":4,
+     "question":"Manufacture year?",
+     "quesType":1,
+     "correctOption":[5],
+     "options":[
+        {
+          "optionId":1,
+          "option":"2009-2011"
+        },
+       {
+          "optionId":2,
+          "option":"2011-2013"
+        },
+       {
+          "optionId":3,
+          "option":"2013-2015"
+        },
+       {
+          "optionId":4,
+          "option":"2015-2018"
+        },
+       {
+          "optionId":5,
+          "option":"2018-above"
+        }
+     ]
+   },
+    {
+     "questionId":5,
+     "question":"Processor Brand?",
+     "quesType":1,
+     "correctOption":[3],
+     "options":[
+        {
+          "optionId":1,
+          "option":"Apple"
+        },
+       {
+          "optionId":2,
+          "option":"Broadcom"
+        },
+       {
+          "optionId":3,
+          "option":"Intel"
+        },
+       {
+          "optionId":4,
+          "option":"Snapdragon"
+        },
+       {
+          "optionId":5,
+          "option":"Mediatek"
+        },
+       {
+          "optionId":6,
+          "option":"AMD"
+        }
+     ]
+   },
+    {
+     "questionId":6,
+     "question":"Payment mode ?",
+     "quesType":1,
+     "correctOption":[4],
+     "options":[
+        {
+          "optionId":1,
+            "option":"Cash on Delivery"
+        },
+       {
+          "optionId":2,
+          "option":"Android Pay"
+        },
+       {
+          "optionId":3,
+          "option":"Net Banking"
+        },
+       {
+          "optionId":4,
+          "option":"Credit/Debit"
+        },
+       {
+          "optionId":5,
+          "option":"Saved Cards"
+        },
+       {
+          "optionId":6,
+          "option":"My Wallet"
+        }
+     ]
+   }
+  ],
+  "paperName": "Sample questions",
+  "paperId": 1,
+  "marksEachques":2
+}
